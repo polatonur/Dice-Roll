@@ -1,0 +1,52 @@
+body{
+  background-color: #424242;
+}
+h1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 80px;
+  color: #5eb8a0;
+  text-align: center;
+}
+
+p{
+  color: #5eb8a0;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  text-align: center;
+
+}
+.red{
+  background-color: red;
+}
+#myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+#myButton:hover {
+	background-color:#5cbf2a;
+}
+#myButton:active {
+	position:relative;
+	top:1px;
+}
+.player_2{
+  display: inline-block;
+  padding: 20px
+}
+
+.Player_1{
+display: inline-block;
+ padding: 20px
+}
+#section0{
+  text-align: center;
+}
